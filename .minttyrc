@@ -1,0 +1,7 @@
+BoldAsFont=no
+Transparency=low
+ForegroundColour=255,255,255
+FontSmoothing=full
+Term=xterm-256color
+Scrollbar=none
+OpaqueWhenFocused=no
